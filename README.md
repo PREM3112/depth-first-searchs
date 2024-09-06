@@ -78,7 +78,9 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-```
+
+``` 
+
 
 <hr>
 <h3>Sample Input</h3>
